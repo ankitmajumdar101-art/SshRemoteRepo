@@ -3,3 +3,4 @@ connect to ssh-key
 for secure connect file
 Without rewrite passwor again and again
 print()
+input()
